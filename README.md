@@ -60,7 +60,7 @@ This project interacts with a custom API to fetch product data. The API is expec
 
 ## Acknowledgements
 
-This project was developed following a tutorial by **[YouTuber's Name]**, which helped in setting up the cart functionality and API integration. You can watch the course [here](#).
+This project was developed following a tutorial by **Chaoo Charles**, which helped in setting up the cart functionality and API integration. You can watch the course [here](https://www.youtube.com/playlist?list=PL63c_Ws9ecIRnNHCSqmIzfsMAYZrN71L6).
 
 ## License
 
